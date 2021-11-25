@@ -25,4 +25,10 @@
         android:layout_height="wrap_content"
         android:text="1"/>
 
+    <TextView
+        android:id="@+id/text_master"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="master 分支新增"/>
+
 </LinearLayout>
