@@ -37,4 +37,9 @@
         android:layout_height="wrap_content"
         android:text="master 分支新增第二次"/>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text = "master 分支新增第三次"/>
+
 </LinearLayout>
