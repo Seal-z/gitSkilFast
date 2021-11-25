@@ -31,4 +31,10 @@
         android:layout_height="wrap_content"
         android:text="master 分支新增"/>
 
+    <TextView
+        android:id="@+id/text_master_two"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="master 分支新增第二次"/>
+
 </LinearLayout>
